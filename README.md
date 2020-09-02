@@ -9,7 +9,7 @@ on a table top with a grid of 5*5 units. It accepts commands to move on Grid.
 
 ## Run program on command prompt
 	
-	Copy folder https://github.com/keshaavg/toyRobot/tree/master/ToyRobot/Binary locally	and run ToyRobot.exe file.
+	Copy folder from https://github.com/keshaavg/toyRobot/tree/master/ToyRobot/Binary locally and run ToyRobot.exe file.
 
 ## Run in Dev environement
 
