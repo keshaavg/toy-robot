@@ -13,7 +13,7 @@ on a table top with a grid of 5*5 units. It accepts commands to move on Grid.
 
 ## Run in Dev environement
 
-	Clone repository from https://github.com/keshaavg/toyRobot.git and build solution in Visual studio
+	Clone repository on local machine from https://github.com/keshaavg/toyRobot.git and build solution in Visual studio
 
 ## Usage
 
