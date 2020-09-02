@@ -69,7 +69,7 @@ namespace ToyRobot
 
                             if (toyRobot == null)
                             {
-                                //Initailising board as this seems to be first call to place command.
+                                //Initailising toy robot as this seems to be first call to place command.
                                 toyRobot = new ToyRobot(x, y, direction);
                             }
                             else
