@@ -33,7 +33,7 @@ namespace ToyRobot
         public int DirectionIndex { get; private set; }
 
         /// <summary>
-        /// Gets or sets current direction index of toy robot on board 
+        /// Gets current direction of toy robot on board 
         /// </summary>
         public Direction Direction 
         {
@@ -46,7 +46,7 @@ namespace ToyRobot
             this.Place(x, y, direction);
         }
         /// <summary>
-        /// Move toy robot one step at a time from current direction .
+        /// Move toy robot one step at a time from current direction.
         /// Does nothing if action would result in breaching min and max allowed values
         /// on table so stoping Toy robot falling off from the table
         /// </summary>
