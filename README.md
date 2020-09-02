@@ -15,7 +15,7 @@ Copy [Binary folder](https://github.com/keshaavg/toyRobot/tree/master/ToyRobot/B
 
 ## Run in Dev environement
 
-Clone [Repository](https://github.com/keshaavg/toyRobot.git) on local machine from and build solution in Visual studio
+Clone [Repository](https://github.com/keshaavg/toyRobot.git) on local machine and build solution in Visual studio
 
 ## Usage
 
