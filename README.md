@@ -26,7 +26,7 @@ REPORT
 EXIT
 ```
 
-## Test Scenarios( Copied from exercise) 
+## Test Scenarios (Copied from exercise) 
 
 ### Scenario 1
 ```
