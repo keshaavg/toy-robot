@@ -95,8 +95,9 @@ namespace ToyRobot
 
                     }
                     
-                    // Not asked in the requirements, Just displaying output after each command for ease of use.
-                    if (toyRobot != null)
+                    // Not asked in the requirements, Just displaying output after each 
+                    // command for ease of use except when report command is given.
+                    if (toyRobot != null && command != Command.Report)
                     {
                         Console.WriteLine(toyRobot.Report());
                     }
