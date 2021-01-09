@@ -50,7 +50,7 @@ Copy [Binary folder](https://github.com/keshaavg/toyRobot/tree/master/ToyRobot/B
 
 Clone [Repository](https://github.com/keshaavg/toyRobot.git) on local machine and build solution in Visual studio
 
-## Test Scenarios (Copied from exercise) 
+## Test Scenarios
 
 ### Scenario 1
 ```
