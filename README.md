@@ -50,17 +50,6 @@ Copy [Binary folder](https://github.com/keshaavg/toyRobot/tree/master/ToyRobot/B
 
 Clone [Repository](https://github.com/keshaavg/toyRobot.git) on local machine and build solution in Visual studio
 
-## Usage
-
-```
-PLACE 0, 0, North 
-LEFT
-RIGHT
-MOVE
-REPORT
-EXIT
-```
-
 ## Test Scenarios (Copied from exercise) 
 
 ### Scenario 1
